@@ -1,0 +1,10 @@
+photo-app:
+  api:
+    users:
+      login:
+        url: "/users/login"
+      gateway:
+        ip: 192.168.0.107
+      jwt:
+        expiration-time: 3600000 # 1h
+        secret: 74Pvafw0o5H8d47Qa7vWm336VmLlkZ2eF8oC3lj+3VU=
