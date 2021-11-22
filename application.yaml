@@ -7,4 +7,4 @@ photo-app:
         ip: 192.168.0.0/24
   jwt:
     expiration-time: 86400000 # 24h
-    secret: 74Pvafw0o5H8d47Qa7vWm336VmLlkZ2eF8oC3lj+3VU=busrefresh2
+    secret: 74Pvafw0o5H8d47Qa7vWm336VmLlkZ2eF8oC3lj+3VU=busrefresh3
